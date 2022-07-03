@@ -1,5 +1,5 @@
 const api = 'https://ws.audioscrobbler.com/2.0/?format=json&';
-const apiKey = 'api_key=8c26f6d976a330378d34462eb67918b2';
+const apiKey = 'KEY';
 const method = 'method=track.getInfo&'
 
 function findDuration(artist, track){
